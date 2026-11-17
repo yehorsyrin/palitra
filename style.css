@@ -1,0 +1,5 @@
+:root{--paper:#F4F1EB;--ink:#1C1B19;--mute:#7d786f}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 -apple-system,BlinkMacSystemFont,"Helvetica Neue",sans-serif}
+main{max-width:640px;margin:0 auto;padding:55px 21px 89px}h1{font:400 34px/1.2 "New York",Georgia,serif;margin:0 0 8px}
+.dots{display:flex;gap:8px;margin:0 0 34px}.dots i{width:13px;height:13px;border-radius:50%;display:block}
+h2{font-size:17px;margin:34px 0 8px}p,li{color:var(--ink)}small,.mute{color:var(--mute)}a{color:var(--ink)}
